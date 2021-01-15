@@ -1,4 +1,4 @@
-# Klazify - Website Categorization JSON API
+# Website Categorization JSON API
 
 Klazify takes a URL as an input and gets you his domain's category data. Our API works analyzing the company's website and classify it into 385+ possible topic categories (our classification taxonomy is based on the IAB V2 standard).
 

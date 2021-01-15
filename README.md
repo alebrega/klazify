@@ -16,4 +16,4 @@ Find a shortened version of the API's Documentation [here](https://www.klazify.c
 Interactive example queries, a variety of code examples (including PHP/CURL, jQuery.ajax and Java), integration guides, useful downloads and much more is available at [https://www.klazify.com/category](https://www.klazify.com/category).
 
 ## Customer Support
-Need any assistance? [Get in touch with Customer Support](mailto:hello@klazify.com?subject=[Github Support]).
+Need any assistance? [Get in touch with Customer Support] (mailto:hello@klazify.com?subject=[Github Support]).

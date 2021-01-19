@@ -1,6 +1,8 @@
-# Website Categorization JSON API
+# Website Categorization JSON API - Check Domain Categorization API - Website Classification API - GitHub
 
 Klazify takes a URL as an input and gets you his domain's category data. Our API works analyzing the company's website and classify it into 385+ possible topic categories (our classification taxonomy is based on the IAB V2 standard).
+
+Website Categorization API uses a machine learning (ML) engine to scan a website's content and meta tags. It extracts text to classify the site and assign up to three categories aided by natural language processing (NLP).
 
 [Klazify](https://www.klazify.com) analyze the text from a company's website and classify it into 385+ possible topic categories (our classification taxonomy is based on the IAB V2 standard).
 Klazify supports all the domains available and almost all the languages of the world. 
